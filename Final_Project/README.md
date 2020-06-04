@@ -2,7 +2,7 @@
 
 This project uses both the [Beer Recommender Data](https://snap.stanford.edu/data/web-BeerAdvocate.html) as well as the [Jester dataset](http://eigentaste.berkeley.edu/about.html) to run various models and evaluate their performance. We will use an AWS EC2 instance to gain the processing power needed to manipulate very large sparse matrices.
 
-[See Model Selection work here](https://github.com/jitsen-design/CUNY_DATA_606_Submissions/blob/master/Data_612/Final_Project/final_model_selection.ipynb)
+[See Model Selection work here](https://github.com/jitsen-design/CUNY_Recommender_Project_Samples/blob/master/Final_Project/final_model_selection.ipynb)
 
 Let's also manufacture a user who likes stouts to see if the model can actually predict the user's taste!
 
@@ -11,7 +11,7 @@ We already know that the optimal number of weights for the Beer Advocate data is
 * Book Review Data [(From a previous exercise)](https://www.kaggle.com/philippsp/book-recommender-collaborative-filtering-shiny/data)
 * Jester Dataset (Used in this exercise)
 
-[See Spark work here](https://github.com/jitsen-design/CUNY_DATA_606_Submissions/blob/master/Data_612/Final_Project/final_spark.ipynb)
+[See Spark work here](https://github.com/jitsen-design/CUNY_Recommender_Project_Samples/blob/master/Final_Project/final_spark.ipynb)
 
 ### Objectives:
 *	Use cloud computing for efficiency 
